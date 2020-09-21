@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("Estamos retomando as aulas de forma remota devido à pandemia do COVID-19.");
 		
 		System.out.println("Minha matrícula no IFPE é 20182y6-rc0142");
+		System.out.println("Meu e-mail institucional agora é jcm1@discente.ifpe.edu.br");
 	}
 
 }
