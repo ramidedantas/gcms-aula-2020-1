@@ -18,10 +18,10 @@ public class HelloWorld {
 		System.out.println("Commit de Gean Lucas");
 		System.out.println("Commit de Gean 2");
 		System.out.println("gcms-pratica-git");
+		System.out.println("Arthur Commit");
+		System.out.println("David.  - 20182y6-rc0134");
+		System.out.println("David.  - 20182y6-rc0134");
 
-		while(true){
-			System.out.println("David.  - 20182y6-rc0134");
-		}
 
 	}
 
