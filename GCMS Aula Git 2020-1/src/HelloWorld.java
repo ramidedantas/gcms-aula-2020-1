@@ -19,13 +19,9 @@ public class HelloWorld {
 		System.out.println("Commit de Gean 2");
 		System.out.println("gcms-pratica-git");
 
-<<<<<<< HEAD
-=======
 		while(true){
 			System.out.println("David.  - 20182y6-rc0134");
 		}
-
->>>>>>> branch 'master' of https://github.com/ramidedantas/gcms-aula-2020-1.git
 
 	}
 
