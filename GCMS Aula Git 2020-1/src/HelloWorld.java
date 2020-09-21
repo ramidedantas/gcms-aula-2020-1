@@ -15,6 +15,7 @@ public class HelloWorld {
 		System.out.println("Meu e-mail institucional agora � jcm1@discente.ifpe.edu.br");
 		System.out.println("Leandro S Melo");
 		System.out.println("gcms-pratica-2");
+		System.out.println("Commit de Gean Lucas");
 
 
 	}
