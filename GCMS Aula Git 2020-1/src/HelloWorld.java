@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Novo commit: BASH + Eclipse");
 		System.out.println("Meu nome é Jerônimo.");
 		System.out.println("Eu estou estudando GCMS.");
+		System.out.println("Estamos retomando as aulas de forma remota.");
 	}
 
 }
