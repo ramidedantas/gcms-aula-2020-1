@@ -24,6 +24,7 @@ public class HelloWorld {
 		System.out.println("heber.  - 20182y6-rc0304");
 
 		System.out.println("1º Commit - Tayná Alexandra");
+		System.out.println("3º Commit - Tayná Alexandra - BASH 1");
 	}
 
 }
