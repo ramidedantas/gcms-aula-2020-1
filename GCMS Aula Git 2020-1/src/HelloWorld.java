@@ -25,6 +25,8 @@ public class HelloWorld {
 		System.out.println("1º Commit BASH 1 - Tayná Alexandra");
 		System.out.println("2º Commit BASH 2 - Tayná Alexandra");
 		System.out.println("3º Commit - Tayná Alexandra - Merge");
+
+		System.out.println("Bash - Branch 1 - Tayná Alexandra");
 		
 		System.out.println("Leandro Melo - lsmads -  20182y6-rc0169");
 		System.out.println("gcms-pratica-2 - git básico - Leandro Melo - lsmads");
