@@ -4,8 +4,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World!!! - BASH/Eclipse");
 		System.out.println("Novo commit: BASH + Eclipse");
-		System.out.println("Leandro S Melo");
-
+		
 		System.out.println("Eclipse+bash master + branch merge");
 
 		System.out.println("Meu nome � Jer�nimo Morais.");
@@ -13,8 +12,8 @@ public class HelloWorld {
 		System.out.println("Estamos retomando as aulas de forma remota devido � pandemia do COVID-19.");
 		System.out.println("Minha matr�cula no IFPE � 20182y6-rc0142");
 		System.out.println("Meu e-mail institucional agora � jcm1@discente.ifpe.edu.br");
-		System.out.println("Leandro S Melo");
-		System.out.println("gcms-pratica-2");
+		
+		
 		System.out.println("Commit de Gean Lucas");
 		System.out.println("Commit de Gean 2");
 		System.out.println("gcms-pratica-git");
@@ -26,6 +25,11 @@ public class HelloWorld {
 		System.out.println("1º Commit BASH 1 - Tayná Alexandra");
 		System.out.println("2º Commit BASH 2 - Tayná Alexandra");
 		System.out.println("3º Commit - Tayná Alexandra - Merge");
+		
+		System.out.println("Leandro Melo - 20182y6-rc0169");
+		System.out.println("gcms-pratica-2 - git");
+		System.out.println("gcms-pratica-3 - git branch");
+
 	}
 
 }
