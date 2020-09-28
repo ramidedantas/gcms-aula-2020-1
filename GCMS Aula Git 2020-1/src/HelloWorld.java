@@ -40,6 +40,7 @@ public class HelloWorld {
 		System.out.println("Commit prática 2 Gean Lucas");
 		
 		System.out.println("Commit Giovanni");
+		System.out.println("Adicionando nova linha");
 
 	}
 
