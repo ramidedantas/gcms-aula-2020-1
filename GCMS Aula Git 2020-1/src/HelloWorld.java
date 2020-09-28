@@ -34,6 +34,7 @@ public class HelloWorld {
 		System.out.println("gcms-pratica-3 - git branch - Leandro Melo - lsmads");
 		
 		System.out.println("Jeronimo - 20182y6-rc0142");
+		System.out.println("Disciplina GCMS com o professor Ramide.");
 
 	}
 
