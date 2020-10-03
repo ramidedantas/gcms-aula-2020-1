@@ -42,6 +42,9 @@ public class HelloWorld {
 		System.out.println("Commit Giovanni");
 		System.out.println("Adicionando nova linha");
 		System.out.println("teste");
+		
+		System.out.println("Modificações");
+		System.out.println("new branch hotfix");
 
 	}
 
