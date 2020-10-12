@@ -37,16 +37,18 @@ public class HelloWorld {
 		System.out.println("Disciplina GCMS com o professor Ramide.");
 		System.out.println("As aulas sao referentes ao turno noturno.");
 		
-		System.out.println("Commit prática 2 Gean Lucas");
+		System.out.println("Commit prï¿½tica 2 Gean Lucas");
 		
 		System.out.println("Commit Giovanni");
 		System.out.println("Adicionando nova linha");
 		System.out.println("teste");
 		
-		System.out.println("Modificações");
+		System.out.println("Modificaï¿½ï¿½es");
 		System.out.println("new branch hotfix");
 
 		System.out.println("Criando minha branch, gio");
+		
+		System.out.println("Arthur pratica 3");
 	}
 
 }
