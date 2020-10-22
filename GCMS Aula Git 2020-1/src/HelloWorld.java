@@ -52,6 +52,7 @@ public class HelloWorld {
 
 		System.out.println("Jeronimo - pratica 03.");
 		System.out.println("O professor eh Ramide.");
+		System.out.println("Richard Albor - esta deveria ser a prática 02 não é mesmo?");
 	}
 
 }
