@@ -19,8 +19,10 @@ public class HelloWorld {
 		System.out.println("gcms-pratica-git");
 		System.out.println("Arthur Commit");
 		System.out.println("David.  - 20182y6-rc0134");
-		System.out.println("David.  - 20182y6-rc0134");
+		System.out.println("David.  - Pratica 03 branch - 20182y6-rc0134");	
+		System.out.println("David. - Pratica 03 - branch 2 commit ");
 		System.out.println("heber.  - 20182y6-rc0304");
+		
 
 		System.out.println("1º Commit BASH 1 - Tayná Alexandra");
 		System.out.println("2º Commit BASH 2 - Tayná Alexandra");
